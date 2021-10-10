@@ -1,8 +1,11 @@
 # EECS-1012-Project-Phase-1
 
 Team: Starlight Squad
+
 Makiese Light Sita(Section B Lab 03): lights@my.yorku.ca #218267617
+
 Madhavendra Singh(Section A Lab 03):  msvirdi@my.yorku.ca #218867259
+
 James Ifeoluwa Dami(Section B Lab 02): ifejames@my.yorku.ca   #218334284
 
 Project Name: Tic-Tac-Toe
