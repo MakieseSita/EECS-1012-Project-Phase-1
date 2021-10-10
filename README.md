@@ -18,10 +18,16 @@ At the moment, we plan to make the game consist of some rough ideas for difficul
 
 Requirements:
 
-The program needs to be fully functional.
--The program needs to be able to build an A.I that can be challenging, yet fun to play against for the player.
+1.The program needs to be fully functional.
+2.The program needs to be able to build an A.I that can be challenging, yet fun to play against for the player.
+3.The program should be impeccably responsive.
+4.Design the whole system in an efficient manner .
+5.Develop system with limited cost
+6.Each player can take turns to play the game
+7.Players can click on the grid to make a move.
+8.One player gets “X” and the other gets “O”.
 
-The program should be impeccably responsive.
+
 
 
 
