@@ -18,6 +18,8 @@ For this project, we plan to make a game of Tic-Tac-Toe. What that means is that
 At the moment, we plan to make the game consist of some rough ideas for difficulty levels. When playing the game with a friend, you and the friend may be able to play from different accounts, which would allow you to play from different areas, and not always need the same computer to play with a friend. With the AI, one of the requirements would be to have the AI be able to figure out patterns that the player would make and counter it just well enough to pose a challenge to the player, but not enough that it is literally impossible for the player to in turn, be able to outsmart the A.I itself.
 
 
+
+
 Requirements:
 
 1.The program needs to be fully functional.
