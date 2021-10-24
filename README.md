@@ -38,9 +38,10 @@ Requirements:
 
 8.One player gets “X” and the other gets “O”.
 
+9.The program should be able to make it clear who won a round played.
+
+10.Program should be able to restart the game at ground 0 when a player wants to play the next round. 
 
 
 
-
-
-(Saturday, October 9 2021)
+(Sunday, October 24 2021)
